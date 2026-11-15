@@ -29,3 +29,9 @@ kaggle.json
 # OS
 .DS_Store
 Thumbs.db
+
+# Reporte
+reporte_actualizado.tex
+
+# Estatus del proyecto
+status.md
